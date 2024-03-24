@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Vivekananthan S</h1>
 <h3 align="center">Web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svivek19&label=Profile%20views&color=0e75b6&style=flat" alt="svivek19" /> </p>
@@ -18,7 +18,7 @@
 <a href = "mailto:svivek030503@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/svivek018" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="svivek018" height="30" width="40" /></a><a href="https://www.youtube.com/c/vivekinnovatex" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="vivekinnovatex" height="30" width="40" /></a><a href="https://instagram.com/svivek018" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="svivek018" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/svivek018" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="svivek018" height="30" width="40" /></a><a href="https://www.youtube.com/c/https://youtube.com/@vivekinnovatex?si=HJRPdPlhWzIPNGh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://youtube.com/@vivekinnovatex?si=HJRPdPlhWzIPNGh1" height="30" width="40" /></a><a href="https://instagram.com/svivek018" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="svivek018" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
