@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="amazondynamodb logo"  />
   <img width="12" />
