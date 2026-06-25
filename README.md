@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/svivek018" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:svivek030503@gmail.com">
+  <a href="mailto: vivekananthansk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/svivek19" target="_blank">
@@ -21,7 +21,7 @@
 - 💼 2+ years building production systems in **Healthcare & EdTech**
 - ⚡ Improved API response times by **30%**, cut costs by **35%**, stress-tested against **1M+ records**
 - 🌐 Proficient in the full MERN stack + Redis, WebSockets, and cloud deployments
-- 📬 Reach me at **svivek030503@gmail.com**
+- 📬 Reach me at **vivekananthansk@gmail.com**
 
 ---
 
